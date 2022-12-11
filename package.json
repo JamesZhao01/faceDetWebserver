@@ -10,7 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "cors": "^2.8.5",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "google-protobuf": "^3.11.0",
     "grpc": "^1.24.2",
     "net": "^1.0.2",
